@@ -42,3 +42,11 @@ body{
     color: hsl(224, 23%, 55%);
     padding: 20px 25px 20px 25px;
 }
+
+.music-outer-div{
+    background-color: hsl(225, 100%, 98%);
+    height: 70px;
+    width: 240px;
+    border-radius: 15px;
+    margin: auto;
+}
