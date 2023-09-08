@@ -50,3 +50,7 @@ body{
     border-radius: 15px;
     margin: auto;
 }
+
+.items-outer-div{
+    display: flex;
+}
