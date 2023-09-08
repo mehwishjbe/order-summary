@@ -35,3 +35,10 @@ body{
     font-size: 13px;
     padding-top: 25px;
 }
+
+.description{
+    text-align: center;
+    font-size: 11px;
+    color: hsl(224, 23%, 55%);
+    padding: 20px 25px 20px 25px;
+}
