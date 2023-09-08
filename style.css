@@ -82,3 +82,25 @@ body{
     font-size: 11px;
     font-weight: bold;
 }
+
+#change-span:hover{
+    cursor: pointer;
+    color: hsl(226, 74%, 77%);
+}
+
+.button-div{
+    margin-top: 20px;
+}
+
+#proceed-btn{
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    font-size: 10px;
+    border-radius: 7px;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: bold;
+    border: none;
+    height: 33px;
+    width: 240px;
+    margin: 0px 25px 0px 25px;
+}
