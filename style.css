@@ -19,3 +19,13 @@ body{
     width: 290px;
     border-radius: 15px;
 }
+
+.img-div{
+    background-color: aquamarine;
+    height: 150px;
+    width: 290px;
+    background-image: url('./images/illustration-hero.png');
+    background-size: cover;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
