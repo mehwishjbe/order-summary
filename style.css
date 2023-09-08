@@ -54,3 +54,7 @@ body{
 .items-outer-div{
     display: flex;
 }
+
+.music-icon{
+    padding: 17px 15px 17px 15px;
+}
