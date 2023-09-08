@@ -60,3 +60,7 @@ body{
 .music-icon{
     padding: 17px 15px 17px 15px;
 }
+
+.plan-outer-div{
+    display: inline;
+}
