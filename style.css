@@ -64,3 +64,13 @@ body{
 .plan-outer-div{
     display: inline;
 }
+
+.plan{
+    padding: 22px 15px 0px 0px;
+    font-size: 13px;
+}
+
+.plan-price{
+    color: hsl(224, 23%, 55%);
+    font-size: 10px;
+}
