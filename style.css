@@ -113,3 +113,16 @@ body{
 .cancel-div{
     margin-top: 20px;
 }
+
+button{
+    background: none;
+    border: none;
+    text-align: center;
+    font-size: 11px;
+    color: hsl(224, 23%, 55%);
+    font-weight: bold;
+    font-family: 'Red Hat Display', sans-serif;
+    height: 33px;
+    width: 240px;
+    margin: 0px 25px 0px 25px;
+}
