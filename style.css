@@ -29,3 +29,9 @@ body{
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 }
+
+.heading{
+    text-align: center;
+    font-size: 13px;
+    padding-top: 25px;
+}
