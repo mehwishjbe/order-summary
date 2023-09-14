@@ -8,15 +8,8 @@ You can access the live demo of this project here [Order Summary Component](http
 
 ## Table of Contents
 
-- [Features](#features)
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
-
-## Features
-
-- Display an order summary.
-- Allows users to change their subscription plan.
-- Provides options to proceed to payment or cancel the order.
 
 ## Built With
 
